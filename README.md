@@ -38,10 +38,3 @@ docker-compose up
 # UI 
 ![image](resources/train_pic.png)
 ![image](resources/pred_pic.png)
-
-
-## TODO
-- [x] Dockerize
-- [ ] Testing
-- [ ] Maybe add celery instead of that background task? (Needs extra configs though)
-
